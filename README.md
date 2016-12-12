@@ -4,7 +4,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ***
 
-#c't Hacks & Make: Drehthermometer
+#Drehthermometer
 
 ###Ungewöhnliches Thermometer mit Zahlenanzeige über drehende Scheiben
 
